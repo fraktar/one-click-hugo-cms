@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Coffee is the hype!
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
